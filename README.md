@@ -50,7 +50,7 @@ This project is perfect for beginners learning:
 ````
 
 cpp-atm-simulator/
-├── atm.cpp         # Main C++ source code
+├── main.cpp         # Main C++ source code
 └── README.md       # Project documentation
 
 ```
@@ -89,7 +89,7 @@ This project is beginner-friendly. Feel free to:
 
 ## 📘 License
 
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [Umer Majeed ](LICENSE : 00834).
 
 ---
 
