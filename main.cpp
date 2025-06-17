@@ -35,3 +35,17 @@ cout<< " Enter the amount of withdraw (stop press 0):";
 cin>>withdraw 
   
 }
+
+// Now this is last part of the code where we use the Do While loop 
+// Asking the customer do you want another transaction ? mean Reapeat ATM
+
+cout<<"\nDo You Want to Use The ATM Again ?" (Y/N): ;
+cin>>repeat;
+}while(repeat=='Y')
+
+return 0;
+}
+
+//finaling the project 
+
+
