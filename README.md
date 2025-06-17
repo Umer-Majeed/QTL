@@ -1,3 +1,4 @@
+--- Created By Umer Majeed 
 # 🏧 C++ ATM Simulation Program
 
 This is a simple C++ console-based ATM simulator that demonstrates the usage of **loops**, **conditionals**, and **basic user interaction**. It includes functionality for depositing, withdrawing, checking balance, and showing recent transactions.
@@ -46,3 +47,50 @@ This project is perfect for beginners learning:
 
 ## 📂 File Structure
 
+````
+
+cpp-atm-simulator/
+├── atm.cpp         # Main C++ source code
+└── README.md       # Project documentation
+
+```
+
+---
+
+## 📸 Sample Output
+
+```
+
+\----- Last 5 Transactions -----
+Transaction 5: Rs.1500
+Transaction 4: Rs.1200
+Transaction 3: Rs.900
+Transaction 2: Rs.600
+Transaction 1: Rs.300
+
+\====== ATM Menu ======
+
+1. Withdraw Money
+2. Deposit Money
+3. View Balance
+4. Exit
+
+```
+
+---
+
+## 🙌 Contribution
+
+This project is beginner-friendly. Feel free to:
+- Open issues
+- Submit pull requests (e.g., add file saving, login system, or class-based version)
+
+---
+
+## 📘 License
+
+This project is open-source under the [MIT License](LICENSE).
+
+---
+
+> Made with ❤️ to teach C++ loops and logic
